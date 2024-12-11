@@ -1,0 +1,58 @@
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+#fs{
+    font-size: 30px;
+    color: black;
+}
+body{       
+    background: lightgrey;
+}
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+#black{
+    font-family: arial;
+    color: black;
+    font-size: 25px;
+    border-style: 2px solid grey;
+    text-align: left;
+
+}
+.img-area {
+	width: 200px;
+	height: 200px;
+	border-radius: 8px;
+	overflow: hidden;
+	border: 1px solid;
+    margin-left: 1300px auto;
+}
+.img-area img {
+	width: 100%;
+}
+header {
+    background: #333;
+    color: white;
+    border-left: 2px solid #333;
+
+  }
+  
+  nav ul {
+    list-style: none;
+    text-align:center;
+  }
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
